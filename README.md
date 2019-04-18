@@ -13,5 +13,5 @@
  2.在你项目的build.gradle文件内添加依赖
  
 	dependencies {
-	         implementation 'com.github.trueLoveBM:openKarlAndroid_VideoPlayer:V1.0'
+	         implementation 'com.github.trueLoveBM:openKarlAndroid_VideoPlayer:V1.01'
 	}
